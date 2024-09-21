@@ -1,4 +1,4 @@
-package com.example.role_management.roleManagement;
+package com.example.role_management.roleManagement.entity;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.*;
